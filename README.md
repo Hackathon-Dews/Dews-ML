@@ -1,13 +1,3 @@
----
-Base URL: https://flask-production-19e8.up.railway.app
-Endpoint : 
-  - /predict
-  - /summarize
-  - /topic-modeling      
----
-
-# Project README
-
 ## Base URL: https://flask-production-19e8.up.railway.app
 
 ### Endpoint: BaseURL/predict
